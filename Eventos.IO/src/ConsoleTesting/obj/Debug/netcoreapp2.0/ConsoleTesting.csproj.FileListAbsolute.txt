@@ -1,0 +1,15 @@
+C:\Projetos\CNetwithAngular4\Eventos.IO\src\ConsoleTesting\bin\Debug\netcoreapp2.0\ConsoleTesting.deps.json
+C:\Projetos\CNetwithAngular4\Eventos.IO\src\ConsoleTesting\bin\Debug\netcoreapp2.0\ConsoleTesting.runtimeconfig.json
+C:\Projetos\CNetwithAngular4\Eventos.IO\src\ConsoleTesting\bin\Debug\netcoreapp2.0\ConsoleTesting.runtimeconfig.dev.json
+C:\Projetos\CNetwithAngular4\Eventos.IO\src\ConsoleTesting\bin\Debug\netcoreapp2.0\ConsoleTesting.dll
+C:\Projetos\CNetwithAngular4\Eventos.IO\src\ConsoleTesting\bin\Debug\netcoreapp2.0\ConsoleTesting.pdb
+C:\Projetos\CNetwithAngular4\Eventos.IO\src\ConsoleTesting\bin\Debug\netcoreapp2.0\Eventos.IO.Domain.Core.dll
+C:\Projetos\CNetwithAngular4\Eventos.IO\src\ConsoleTesting\bin\Debug\netcoreapp2.0\Eventos.IO.Domain.dll
+C:\Projetos\CNetwithAngular4\Eventos.IO\src\ConsoleTesting\bin\Debug\netcoreapp2.0\Eventos.IO.Domain.pdb
+C:\Projetos\CNetwithAngular4\Eventos.IO\src\ConsoleTesting\bin\Debug\netcoreapp2.0\Eventos.IO.Domain.Core.pdb
+C:\Projetos\CNetwithAngular4\Eventos.IO\src\ConsoleTesting\obj\Debug\netcoreapp2.0\ConsoleTesting.csprojResolveAssemblyReference.cache
+C:\Projetos\CNetwithAngular4\Eventos.IO\src\ConsoleTesting\obj\Debug\netcoreapp2.0\ConsoleTesting.csproj.CoreCompileInputs.cache
+C:\Projetos\CNetwithAngular4\Eventos.IO\src\ConsoleTesting\obj\Debug\netcoreapp2.0\ConsoleTesting.AssemblyInfoInputs.cache
+C:\Projetos\CNetwithAngular4\Eventos.IO\src\ConsoleTesting\obj\Debug\netcoreapp2.0\ConsoleTesting.AssemblyInfo.cs
+C:\Projetos\CNetwithAngular4\Eventos.IO\src\ConsoleTesting\obj\Debug\netcoreapp2.0\ConsoleTesting.dll
+C:\Projetos\CNetwithAngular4\Eventos.IO\src\ConsoleTesting\obj\Debug\netcoreapp2.0\ConsoleTesting.pdb

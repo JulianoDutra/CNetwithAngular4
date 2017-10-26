@@ -1,0 +1,9 @@
+C:\Projetos\CNetwithAngular4\Eventos.IO\src\Eventos.IO.Domain.Core\bin\Debug\netstandard2.0\Eventos.IO.Domain.Core.deps.json
+C:\Projetos\CNetwithAngular4\Eventos.IO\src\Eventos.IO.Domain.Core\bin\Debug\netstandard2.0\Eventos.IO.Domain.Core.dll
+C:\Projetos\CNetwithAngular4\Eventos.IO\src\Eventos.IO.Domain.Core\bin\Debug\netstandard2.0\Eventos.IO.Domain.Core.pdb
+C:\Projetos\CNetwithAngular4\Eventos.IO\src\Eventos.IO.Domain.Core\obj\Debug\netstandard2.0\Eventos.IO.Domain.Core.csprojResolveAssemblyReference.cache
+C:\Projetos\CNetwithAngular4\Eventos.IO\src\Eventos.IO.Domain.Core\obj\Debug\netstandard2.0\Eventos.IO.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Projetos\CNetwithAngular4\Eventos.IO\src\Eventos.IO.Domain.Core\obj\Debug\netstandard2.0\Eventos.IO.Domain.Core.AssemblyInfoInputs.cache
+C:\Projetos\CNetwithAngular4\Eventos.IO\src\Eventos.IO.Domain.Core\obj\Debug\netstandard2.0\Eventos.IO.Domain.Core.AssemblyInfo.cs
+C:\Projetos\CNetwithAngular4\Eventos.IO\src\Eventos.IO.Domain.Core\obj\Debug\netstandard2.0\Eventos.IO.Domain.Core.dll
+C:\Projetos\CNetwithAngular4\Eventos.IO\src\Eventos.IO.Domain.Core\obj\Debug\netstandard2.0\Eventos.IO.Domain.Core.pdb

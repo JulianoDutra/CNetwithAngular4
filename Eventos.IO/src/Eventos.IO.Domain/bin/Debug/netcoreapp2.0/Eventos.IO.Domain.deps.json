@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "Eventos.IO.Domain/1.0.0": {
+        "dependencies": {
+          "Eventos.IO.Domain.Core": "1.0.0"
+        },
+        "runtime": {
+          "Eventos.IO.Domain.dll": {}
+        }
+      },
+      "Eventos.IO.Domain.Core/1.0.0": {
+        "runtime": {
+          "Eventos.IO.Domain.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Eventos.IO.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Eventos.IO.Domain.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
